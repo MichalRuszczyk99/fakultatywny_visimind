@@ -1,0 +1,13 @@
+aplikacja mobilna typu chatbot
+Features:
+Użytkownik chce się skomunikować z chatbotem
+Użutkownik chce uzykiwać odpowiedzi na pytania
+Użytkownik oczekuje sensownej odpowiedzi na pytania
+
+User story:
+Użytkownik zadaje pytanie o to co może chatbot 1
+Użytkownik uyzskuje odpowiedź zwrotną że chatbot może wszystko 1
+Użytkownik wydaje polecenie wykrycia wykonawcy piosenki 1
+Użytkownik sprawdza poprawność rozwiązania polecenia 3
+Użytkownik pyta o godzinę 1
+Użytkownik uzyskuje odpowiedź 1
