@@ -1,0 +1,26 @@
+ryzyko: chatbot nie fukcjonuje z nieznanych przyczyn   
+prawdopodobieństwo: średnie   
+wpływ: duży  
+sposób na ograniczenie ryzyka: przeprowadzanie regularnych testów  
+rozwiązanie problemu: dokładna analiza programu
+
+
+ryzyko: niestabilność programu
+prawdopodobieństwo: średnie
+wpływ: duży
+sposób na ograniczenie ryzyka: optymalizacja kodu
+rozwiązanie problemu: optymalizacja kodu
+
+
+ryzyko: chatbot uzyskuje samoświadomość
+prawdopodobieństwo: niskie
+wpływ: mały
+sposób na ograniczenie ryzyka: niepotrzebne
+rozwiązanie problemu: zmiana zastosowania programu
+
+
+ryzyko: atak ransomware
+prawdopodobieństwo: niskie
+wpływ: duży
+sposób na ograniczenie ryzyka: regularne backupy
+rozwiązanie problemu: format komputerów i wczytanie backupu
