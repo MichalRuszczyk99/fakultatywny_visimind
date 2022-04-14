@@ -1,0 +1,16 @@
+definition of done:
+-ukończenie strony
+-przeprowadzenie testów przejrzystości
+-przeprowadzenie testów bezpieczeństwa
+-przeprowadzenie testów kompatybilności z różnymi przeglądarkami i urządzeniami
+-wprowadzenie poprawek
+-finalne testy
+
+
+kryteria akceptacji:
+-zdjęcie jest wyysłane na serwer
+-serwer przyjmuje zdjęcia o różnych rozserzeniach
+-serwer nie przyjmuje zbyt dużych zdjęć
+-zdjęcia są przechowywane w sposób bezpieczny
+-funkcjonalności CRUD
+
